@@ -32,7 +32,7 @@
 
 
 ## Output:
-![Screenshot 2023-11-21 101015](https://github.com/23004426/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979327/be3c72a7-23a4-41e0-bd27-174e400c6275)
+![Screenshot 2023-11-21 100939](https://github.com/23004426/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979327/e34bfbdd-6771-4f9f-882c-3d8acbed190b)
 
 ### Name:
 ### Register Number:
