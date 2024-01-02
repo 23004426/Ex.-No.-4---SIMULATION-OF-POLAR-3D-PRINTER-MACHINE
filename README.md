@@ -34,8 +34,8 @@
 ## Output:
 ![Screenshot 2023-11-21 100939](https://github.com/23004426/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/144979327/e34bfbdd-6771-4f9f-882c-3d8acbed190b)
 
-### Name:
-### Register Number:
+### Name: Tirupathi Jayadeep
+### Register Number: 23004426
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
